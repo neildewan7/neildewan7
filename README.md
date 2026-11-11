@@ -1,6 +1,6 @@
 ### Neil Dewan
 
-Data Science + Finance student at UC San Diego (grad June 2027). Studied Social Data Science as an exchange student at Hitotsubashi University in Tokyo. <!-- TODO(Neil): confirm if this exchange is ongoing as of now, vs. finished --> Bilingual English/Japanese, job hunting in both the US and Japan.
+Data Science + Econ student at UC San Diego (grad June 2027). Studied Social Data Science as an exchange student at Hitotsubashi University in Tokyo. Bilingual English/Japanese, job hunting in both the US and Japan.
 
 I like building things that sit between data, language, and decisions — geospatial analysis, multilingual NLP agents, and causal inference — and I'm interested in forward-deployed / client-facing technical roles.
 
